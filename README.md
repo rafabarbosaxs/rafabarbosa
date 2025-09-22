@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, Eu sou Rafaela</h1>
 <h3 align="center">Desenvolvedora Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lariicruz&label=Profile%20views&color=0e75b6&style=flat" alt="lariicruz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lariicruz&label=Profile%20views&color=0e75b6&style=flat" alt="rafabarbosaxs" /> </p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="35" /> <img
                                                                                                                                                                                                                                                                                                           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="35" height="35"/> <img 
