@@ -20,7 +20,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-w
 <div>
 <a href="https://github.com/nunespc">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafabarbosa&show_icons=true&locale=en&layout=compact&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafabarbosa&show_icons=true&theme=dracula&locale=en"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaabarbosa&show_icons=true&theme=dracula&locale=en"/>
     
 
  
